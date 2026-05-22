@@ -92,8 +92,24 @@ iframe{
     text-align: left;
 }
 
-/*Pagina torneos*/
+/*página torneos*/
 
 .sectionFlex{
     display: flex;
+}
+
+/*página cookies*/
+
+.titTres{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.listCookies{
+    list-style: inside;
+}
+
+.listCookies2{
+    list-style: circle
 }
