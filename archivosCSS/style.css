@@ -1,3 +1,12 @@
+@font-face{
+    font-family: "Playfair Display";
+    src: url(/Fuentes/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+@font-face{
+    font-family: "Lora";
+    src: url(/Fuentes/Lora-VariableFont_wght.ttf);
+}
 /*header*/
 
 #colorHead{
@@ -30,6 +39,7 @@
 .titDos{
     text-align: center;
     margin: 20px;
+    font-family:Playfair Display;
 }
 
 /*página contacto*/
@@ -122,3 +132,13 @@ iframe{
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.titPrinc{
+    text-align: center;
+    font-family:Playfair Display;
+}
+
+p{
+    font-family: Lora;
+}
+
