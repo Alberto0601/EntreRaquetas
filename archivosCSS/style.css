@@ -126,16 +126,14 @@ iframe{
 
 /*index*/
 
-.imgLogo{
-    width: 50px;
-    height: 50px;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
 .titPrinc{
     text-align: center;
     font-family:Playfair Display;
+}
+
+.titPrincEnlc{
+    text-decoration: none;
+    color: black;
 }
 
 p{
