@@ -11,6 +11,9 @@
 
 #colorHead{
     background-color: #1E2B3E;
+    position: sticky;
+    top: 0;
+    z-index: 5;
 }
 
 #bordeBotHead{
