@@ -144,3 +144,8 @@ p{
     font-family: Lora;
 }
 
+/*aviso legal*/
+.margenAviso{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
