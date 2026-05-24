@@ -164,6 +164,10 @@ p{
 
 /*convertir los h5 que tengo en h3*/
 
+.titCincoaTres{
+    font-size: 1.25rem;
+}
+
 /*query menu movil a 360px*/
 
 #icono{
