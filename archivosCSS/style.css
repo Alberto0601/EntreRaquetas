@@ -160,7 +160,7 @@ p{
 
 /*convertir los h5 que tengo en h3*/
 
-/*querys*/
+/*query menu movil a 360px*/
 
 #icono{
     display: none;
@@ -185,5 +185,38 @@ p{
 
     #menu:checked~nav{
         display: block;
+    }
+}
+/*query página jugadores*/
+
+@media (max-width: 429px){
+    .centrar{
+        width: 90%;
+    }
+
+    .listaJugadores{
+        margin-right: 0px;
+    }
+}
+
+@media (max-width: 1100px){
+    .contentContacto{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    iframe{
+        display: none;
+    }
+}
+
+@media (max-width:570px){
+
+    .formulario{
+        width: 100%;
+    }
+
+    .mapa{
+        width: 100%;
     }
 }
