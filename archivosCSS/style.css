@@ -159,3 +159,31 @@ p{
 }
 
 /*convertir los h5 que tengo en h3*/
+
+/*querys*/
+
+#icono{
+    display: none;
+}
+#menu{
+    display: none;
+}
+
+@media (max-width: 360px){
+
+    #icono{
+        display: block;
+    }
+
+    #ocultoM{
+        display: none;
+    }
+    
+    nav div div ol{
+        flex-direction: column;
+    }
+
+    #menu:checked~nav{
+        display: block;
+    }
+}
