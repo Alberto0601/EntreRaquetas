@@ -93,7 +93,7 @@ iframe{
 
 /*página Sobre nosotros*/
 
-#sepCaj{
+.sepCaj{
     margin-bottom: 40px;
 }
 
@@ -101,7 +101,7 @@ iframe{
     margin: 20px;
 }
 
-#texto{
+.texto{
     text-align: left;
 }
 
