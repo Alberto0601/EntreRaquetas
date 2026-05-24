@@ -22,6 +22,10 @@
 
 /*hover del header*/
 
+#ocultoM div div ol li a:hover{
+    color: #DFA24E !important;
+}
+
 /*main*/
 
 .centrar{
