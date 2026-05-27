@@ -9,67 +9,107 @@
 
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/</loc>
-  <lastmod>2026-05-24T20:27:15+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:46+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/index.html</loc>
-  <lastmod>2026-05-24T20:27:16+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/servicios.html</loc>
-  <lastmod>2026-05-24T20:27:16+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/blog.html</loc>
-  <lastmod>2026-05-24T20:27:16+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://entre-raquetas-github-io.vercel.app/paginas/post-detalle.html</loc>
-  <lastmod>2026-05-24T20:27:16+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/torneos.html</loc>
-  <lastmod>2026-05-24T20:27:16+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/jugadores.html</loc>
-  <lastmod>2026-05-24T20:27:17+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://entre-raquetas-github-io.vercel.app/noticias/cristinaBucsa.html</loc>
+  <lastmod>2026-05-27T16:11:49+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://entre-raquetas-github-io.vercel.app/noticias/carre%C3%B1o.html</loc>
+  <lastmod>2026-05-27T16:11:49+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://entre-raquetas-github-io.vercel.app/noticias/rafaJ%C3%B3dar.html</loc>
+  <lastmod>2026-05-27T16:11:49+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://entre-raquetas-github-io.vercel.app/noticias/rafaNadal.html</loc>
+  <lastmod>2026-05-27T16:11:49+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://entre-raquetas-github-io.vercel.app/noticias/ferrero.html</loc>
+  <lastmod>2026-05-27T16:11:49+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/faq.html</loc>
-  <lastmod>2026-05-24T20:27:17+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:50+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/sobre-nosotros.html</loc>
-  <lastmod>2026-05-24T20:27:17+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:51+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/contacto.html</loc>
-  <lastmod>2026-05-24T20:27:17+00:00</lastmod>
-  <priority>0.60</priority>
+  <lastmod>2026-05-27T16:11:51+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/aviso-legal.html</loc>
-  <lastmod>2026-05-24T20:27:17+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:51+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/privacidad.html</loc>
-  <lastmod>2026-05-24T20:27:17+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:51+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>https://entre-raquetas-github-io.vercel.app/paginas/cookies.html</loc>
-  <lastmod>2026-05-24T20:27:17+00:00</lastmod>
+  <lastmod>2026-05-27T16:11:51+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://entre-raquetas-github-io.vercel.app/competiciones/rolandGarros.html</loc>
+  <lastmod>2026-05-27T16:11:51+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://entre-raquetas-github-io.vercel.app/competiciones/wimbledon.html</loc>
+  <lastmod>2026-05-27T16:11:52+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://entre-raquetas-github-io.vercel.app/competiciones/openAustralia.html</loc>
+  <lastmod>2026-05-27T16:11:52+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://entre-raquetas-github-io.vercel.app/competiciones/openEstadosUnidos.html</loc>
+  <lastmod>2026-05-27T16:11:52+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 
