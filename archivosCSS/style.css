@@ -134,15 +134,8 @@ iframe{
 }
 
 /*index*/
-
 .titPrinc{
     text-align: center;
-    font-family:Playfair Display;
-}
-
-.titPrincEnlc{
-    text-decoration: none;
-    color: white;
 }
 
 p{
@@ -311,4 +304,18 @@ p{
 
 .sepTit{
     margin-top: 30px;
+}
+
+/*blog*/
+.contentImagen {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.contentImagen img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
 }
