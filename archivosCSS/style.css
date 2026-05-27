@@ -47,6 +47,7 @@
     text-align: center;
     margin: 20px;
     font-family:Playfair Display;
+    border-bottom: solid 2px #DFA24E;
 }
 
 /*página contacto*/
@@ -148,6 +149,61 @@ p{
     font-family: Lora;
 }
 
+/*decoración index*/
+
+.noticiaPrincipal{
+    display: flex;
+    gap: 20px;
+}
+
+.cajNoticia{
+    flex:2;
+    border-top:5px;
+}
+
+.contenidoNoticia{
+    padding:15px;
+}
+
+.noticiaLat{
+    display:flex;
+    flex:1;
+    flex-direction:column;
+    gap:20px;
+}
+
+.noticLatContent{
+    border: 1px solid rgba(0, 0, 0, 0.175);
+    border-radius: 12px;
+}
+
+.separar{
+    margin-top:20px;
+}
+
+.colorenlacSmall{
+    text-decoration: none;
+    color: inherit;
+}
+
+.imgMainTam{
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px solid black;
+}
+
+/*hovers en noticias*/
+
+.noticLatContent:hover{
+    transform:translateY(-4px);box-shadow:0 8px 20px #DFA24E;
+}
+
+.card:hover{
+    transform:translateY(-4px);box-shadow:0 8px 20px #DFA24E;
+
+}
+
 /*aviso legal*/
 .margenAviso{
     margin-top: 20px;
@@ -166,6 +222,7 @@ p{
 
 .titCincoaTres{
     font-size: 1.25rem;
+    font-family: Lora;
 }
 
 /*query menu movil a 360px*/
@@ -197,7 +254,7 @@ p{
 }
 /*query página jugadores*/
 
-@media (max-width: 429px){
+@media (max-width: 888px){
     .centrar{
         width: 90%;
     }
@@ -206,6 +263,8 @@ p{
         margin-right: 0px;
     }
 }
+
+/*query contacto*/
 
 @media (max-width: 1100px){
     .contentContacto{
@@ -227,4 +286,29 @@ p{
     .mapa{
         width: 100%;
     }
+}
+
+/*query index 710 se ve bien, bajar debajo cada uno cuando se vea mal*/
+
+/*noticias*/
+
+.migas{
+    text-decoration: none;
+    color: inherit;
+}
+
+.migas:hover{
+    color: #DFA24E;
+}
+
+.breadcrumb{
+    margin-top: 10px;
+}
+
+.centTith3{
+    text-align: center;
+}
+
+.sepTit{
+    margin-top: 30px;
 }
