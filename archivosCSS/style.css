@@ -227,7 +227,7 @@ p{
     display: none;
 }
 
-@media (max-width: 360px){
+@media (max-width: 768px){
 
     #icono{
         display: block;
@@ -281,8 +281,6 @@ p{
     }
 }
 
-/*query index 710 se ve bien, bajar debajo cada uno cuando se vea mal*/
-
 /*noticias*/
 
 .migas{
@@ -318,4 +316,15 @@ p{
     height: auto;
     display: block;
     border-radius: 10px;
+}
+
+/*query index*/
+
+@media (max-width:720px){
+    .noticiaPrincipal{
+        flex-direction: column;
+    }
+    #notColumna{
+        flex-direction: column;
+    }
 }
