@@ -326,5 +326,6 @@ p{
     }
     #notColumna{
         flex-direction: column;
+        gap: 20px;
     }
 }
